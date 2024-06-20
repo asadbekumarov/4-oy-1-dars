@@ -1,0 +1,5 @@
+console.log("Hello my friend")
+alert("Hello")
+console.log(prompt("Where are you from?"))
+alert(prompt("Enter your age?"))
+console.log(confirm("Send"))
